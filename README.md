@@ -25,10 +25,6 @@ Um perfil simples e elegante para compartilhar fotos de viagens e informações 
 
 projeto-Travelgram/ ├── assets/ │ ├── icons/ │ ├── img/ │ └── Profile pic.png ├── styles/ │ ├── global.css │ ├── nav.css │ ├── header.css │ ├── main.css │ ├── footer.css │ └── index.css ├── index.html └── README.md
 
-python
-Copy
-Edit
-
 O arquivo `index.css` importa todos os módulos de estilo:
 
 ```css
@@ -37,6 +33,8 @@ O arquivo `index.css` importa todos os módulos de estilo:
 @import url(header.css);
 @import url(main.css);
 @import url(footer.css);
+```
+
 🛠️ Como usar
 Clone este repositório:
 
@@ -52,7 +50,7 @@ Edit
 cd projeto-Travelgram
 Abra o arquivo index.html com o navegador de sua preferência.
 
-📝 Funcionalidades
+## 📝 Funcionalidades
 Estrutura semântica com HTML5
 
 Layout flexível com Flexbox
@@ -63,12 +61,12 @@ Uso de ícones e imagens para representar informações do perfil
 
 Tipografia moderna com Google Fonts
 
-📌 Melhorias Futuras
+## 📌 Melhorias Futuras
  Responsividade total para mobile
 
  Animações com CSS
 
  Versão com JavaScript e posts dinâmicos
 
-👨‍💻 Autor
+## 👨‍💻 Autor
 Desenvolvido por Cesar Severo
