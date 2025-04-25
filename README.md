@@ -1,6 +1,8 @@
-# 🌍 Travelgram
+# 🌍 Travelgram perfil da Isabela Torres
 
 Projeto fictício de um perfil de rede social da Isabela Torres voltado para viagens, desenvolvido com foco em HTML e CSS puros. O objetivo é treinar organização de código, estilização com Flexbox e separação modular de estilos com arquivos CSS individuais.
+
+![Página Principal do Site](https://github.com/cesar-severo-programador/projeto-Travelgram/blob/master/assets/screenshot/Travelgram%20perfil%20da%20Isabela%20Torres.png)
 
 ## 📸 Demonstração
 
@@ -42,6 +44,33 @@ Copy
 Edit
 cd projeto-Travelgram
 Abra o arquivo index.html com o navegador de sua preferência.
+
+## 🖼️ Imagens do Projeto
+
+### 🧭 Visão Geral
+
+Abaixo estão alguns prints que mostram a estrutura visual do portal **Travelgram**.
+
+---
+
+### 📸 Perfil
+
+![Página Principal do Site](https://github.com/cesar-severo-programador/projeto-Travelgram/blob/master/assets/screenshot/01.png)
+
+---
+
+### 🧩 Seções de imagens
+
+![Mais lidas](https://github.com/cesar-severo-programador/projeto-Travelgram/blob/master/assets/screenshot/02.png)
+
+---
+
+### 🖥️ Site Completo em Scroll Único
+
+Essa imagem mostra o site em um único scroll vertical (ideal para ter uma ideia geral do layout completo):
+
+![Site Completo](https://github.com/cesar-severo-programador/projeto-Travelgram/blob/master/assets/screenshot/03.png)
+
 
 ## 📝 Funcionalidades
 Estrutura semântica com HTML5
