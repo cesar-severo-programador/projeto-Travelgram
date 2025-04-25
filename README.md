@@ -8,6 +8,14 @@ Projeto fictício de um perfil de rede social da Isabela Torres voltado para via
 
 Um perfil simples e elegante para compartilhar fotos de viagens e informações do usuário, como localização e quantidade de países visitados.
 
+## 🔗 Acesse o projeto online
+
+Você pode visualizar o site diretamente pelo GitHub Pages:
+
+👉 [Travelgram - GitHub Pages](https://cesar-severo-programador.github.io/projeto-Travelgram/)
+
+---
+
 ## 🚀 Tecnologias Utilizadas
 
 - HTML5
